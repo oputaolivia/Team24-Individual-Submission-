@@ -1,7 +1,7 @@
 # Team24-Individual-Submission
 Tasks done as a Backend Developer for the Zuri project phase.
 
-## Links to issues/Contributions
+## Oputa Olivia's Contributions
 - [Project Setup](https://github.com/zuri-training/WF-PriceCompare-24/issues/2)
 
 Setup the project structures. Task Done 
